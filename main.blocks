@@ -1,0 +1,73 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="S8e]bD#*s1bR6OzljAE+" x="0" y="0"></block><block type="device_forever" id="cv@(p8%0_Y@Sn:XS@:GX" x="205" y="0"></block><block type="device_button_event" id="Ff8o.4YM)4]w`a,wy#^e" x="194" y="181"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_while" id="o-V+-J61`L{;{!yyfQXd"><value name="COND"><shadow type="logic_boolean" id="i2J^lRZ(_ToE~dcU)5hg"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_show_leds" id="+aZuP)pcJ-M|Y-JuIQY-"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="69#:Ch.z#Brp;;ic?_eX"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="2i`RI0:{{bQa8uFFyku!"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="d;Uks3ZG9KPcya.g%qqF"><field name="LEDS">`
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="`KE=F6IA*,PX~i`7|I`Y"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="jqzbXi{YkK3+r+D#{uG^"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="JK~L8]+hAUR~1?XI|l2!"><value name="pause"><shadow type="timePicker" id="s)}61Y,qBlZYmu94.7G9"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_button_event" id="n^zS!x8+D|NYy{UM!vxc" x="584" y="341"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_while" id="3f^03,#3u3@?5Rx%cK.E"><value name="COND"><shadow type="logic_boolean" id="7{Si#,b7T.Hjjz:(tWNn"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="S6-!E!`98T2|Q8,c)G]]"><field name="i">IconNames.StickFigure</field><next><block type="device_show_leds" id=",G9rDQXW9QWMi1k%B?pf"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="^LS`G-|WZ77|]~kLyT]d"><field name="LEDS">`
+        . # # # . 
+        . # # # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="aV;()Dh#PMA/tYW!~XjM"><field name="LEDS">`
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="gbE;I~xYkh)R}!SL*.hf"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="]#6%|G0jbD)9J}8,|xWh"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="/ia+%:ByxRcdx4d!rjnn"><field name="LEDS">`
+        # . # . . 
+        . # # # . 
+        . . # # . 
+        . # . # . 
+        # . . . #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_print_message" id="Wlgr#pCazfUu$EoGVvP;" disabled="true" x="845" y="1346"><value name="text"><shadow type="text" id="45}h2ms;j}9:Ix^_R)]?" disabled="true"><field name="TEXT">dancing guy</field></shadow></value></block><block type="device_print_message" id="Q?,%~VmtYR*}{.4UmP$0" disabled="true" x="889" y="1573"><value name="text"><shadow type="text" id="oviTWvKjt4?zZ17I;=+v" disabled="true"><field name="TEXT">wong pui ching </field></shadow></value></block><block type="device_print_message" id=";6DMajCF6LfzL.I71@9t" disabled="true" x="169" y="1793"><value name="text"><shadow type="text" id="dtL3_VJ3T[puk7rN5ihO" disabled="true"><field name="TEXT">fireworks</field></shadow></value></block></xml>
